@@ -1,18 +1,18 @@
 
 @font-face {
   font-family: myFirstFont;
-  src: url(font/Montserrat-Bold.ttf);
+  src: url(../assets/font/Montserrat-Bold.ttf);
  /* font-weight: bold;*/
 }
 @font-face {
   font-family: myFirstFont1;
-  src: url(font/Great_Wishes.otf);
+  src: url(../assets/font/Great_Wishes.otf);
  /* font-weight: bold;*/
 }
 
 
 html,body{
-background-image: url('images/book4.jpg') ;
+background-image: url('../assets/images/book4_edited.jpg') ;
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
